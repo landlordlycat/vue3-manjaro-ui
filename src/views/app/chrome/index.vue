@@ -25,7 +25,7 @@ export default defineComponent({
   name: "index",
   data (){
     return {
-      tabs: ['https://www.google.com/search?igu=1', 'https://blog.halberd.cn'],
+      tabs: ['https://www.google.com/search?igu=1', 'https://blog.yunyuyuan.net'],
       activeIdx: 0,
       url: ''
     }

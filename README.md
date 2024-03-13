@@ -3,7 +3,7 @@
 # 💥 web-manjaro written in Vue
                 
 
-> 🚀 demo: [https://manjaro.halberd.cn](https://manjaro.halberd.cn)
+> 🚀 demo: [https://manjaro.yunyuyuan.net](https://manjaro.yunyuyuan.net)
 ---
 #### Compare with Real Manjaro
 

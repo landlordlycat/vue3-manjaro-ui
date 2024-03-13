@@ -3,7 +3,7 @@
 # 💥 用vue写的manjaro网页版桌面
                 
 
-> 🚀 演示: [https://manjaro.halberd.cn](https://manjaro.halberd.cn)
+> 🚀 演示: [https://manjaro.yunyuyuan.net](https://manjaro.yunyuyuan.net)
 ---
 #### 与真·Manjaro对比
 
